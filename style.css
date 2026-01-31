@@ -26,13 +26,14 @@ h2 {
     color: rgb(255, 255, 255);
 }
 
-p {
+#message {
     color: white;
     font-family: sans-serif;
 }
 
 #secret-message {
     color: black;
+    font-family: sans-serif;
 }
 
 .button-container {
